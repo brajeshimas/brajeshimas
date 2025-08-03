@@ -118,7 +118,7 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=brajeshimas&theme=react&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brajeshimas&layout=compact&theme=react" alt="Top Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brajeshimas&layout=compact&theme=react" />
 </p>
 
 ---
