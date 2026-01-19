@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Embedded Firmware Engineer | Passionate about building efficient and smart embedded systems</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2.5+_Years-blue" />
+  <img src="https://img.shields.io/badge/Experience-3+_Years-blue" />
   <img src="https://img.shields.io/badge/Role-Embedded_Firmware_Engineer-green" />
   <img src="https://img.shields.io/badge/Location-Noida,%20India-orange" />
 </p>
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔧 Embedded Firmware Developer with **2.5+ years of hands-on experience**
+- 🔧 Embedded Firmware Developer with **3+ years of hands-on experience**
 - 🎯 Specializes in **STM32 (M3/M4)**, **8051**, **AVR**, and **ESP32/ESP8266**
 - 🌐 Developed **IoT solutions** using **4G LTE**, GNSS, ZIGBEE, and WiFi
 - 🧠 Currently diving deeper into **RTOS**, **Task Scheduling**, and **Low-Power Design**
